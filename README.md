@@ -161,157 +161,194 @@ How to Think Like a Computer Scientist</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(65).pdf" style="text-decoration:none;">A People Passing Rude: British Responses to Russian Culture </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(66).pdf" style="text-decoration:none;">Human and Machine
+Consciousness</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(67).pdf" style="text-decoration:none;">Introduction to World History (1831)
+Opening Address at the Faculty of Letters, 9 January 1834</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(68).pdf" style="text-decoration:none;">Open Education:
+International Perspectives in Higher Education</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(69).pdf" style="text-decoration:none;">Remote Capture:
+Digitising Documentary Heritage in Challenging Locations</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(70).pdf" style="text-decoration:none;">Thomas Annan of Glasgow:
+Pioneer of the Documentary Photograph</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(71).pdf" style="text-decoration:none;">Tyneside Neighbourhoods:
+Deprivation, Social Life and Social Behaviour in One British City</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
- 
- 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(73).pdf" style="text-decoration:none;">Firmament: fast, centralized cluster scheduling at scale</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(74).pdf" style="text-decoration:none;">Information Flow Control for Standard OS Abstractions</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(75).pdf" style="text-decoration:none;">UIA: A Global Connectivity Architecture
-for Mobile Personal Devices</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(76).pdf" style="text-decoration:none;">Specifying Crash Safety for Storage Systems</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(77).pdf" style="text-decoration:none;">Using Crash Hoare Logic for Certifying the FSCQ File System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(72).pdf" style="text-decoration:none;">Verdi in Victorian London</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(78).pdf" style="text-decoration:none;">An Approach to Improve the Performance
-of Insertion Sort Algorithm</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(79).pdf" style="text-decoration:none;">Integrity and access control in untrusted content distribution networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(73).pdf" style="text-decoration:none;">Why Do We Quote?
+The Culture and History of Quotation</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(74).pdf" style="text-decoration:none;">The Pogroms in Ukraine,
+1918-19: Prelude to the Holocaust</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(75).pdf" style="text-decoration:none;">Women in Nineteenth-Century
+Russia: Lives and Culture</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(76).pdf" style="text-decoration:none;">Global Warming in
+Local Discourses: How Communities around the World Make Sense of Climate Change</a></li>
 
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(80).pdf" style="text-decoration:none;">Waddle: A proven interpreter and test framework
-for a subset of the Go semantics</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(77).pdf" style="text-decoration:none;">A European Public
+Investment Outlook</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(81).pdf" style="text-decoration:none;">The Grid Roofnet:
-a Rooftop Ad Hoc Wireless Network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(82).pdf" style="text-decoration:none;">Hare: a file system for non-cache-coherent multicores</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(83).pdf" style="text-decoration:none;">Certifying a Crash-safe File System</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(84).pdf" style="text-decoration:none;">An Overview of Approaches Used In Focused Crawlers</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(85).pdf" style="text-decoration:none;">Network Layer Support for Overlay Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(86).pdf" style="text-decoration:none;">Device-Transparent Personal Storage</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(87).pdf" style="text-decoration:none;">Bit-rate Selection in Wireless Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(89).pdf" style="text-decoration:none;">Jitk: A Trustworthy In-Kernel Interpreter Infrastructure</a></li>
-  
-  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(90).pdf" style="text-decoration:none;"> Applying Exokernel Principles to Conventional. Operating Systems</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(91).pdf" style="text-decoration:none;">User Authentication and Remote Execution
-Across Administrative Domains</a></li>
-
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(92).pdf" style="text-decoration:none;">Karaoke: Distributed Private Messaging
-Immune to Passive Traffic Analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
-  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(78).pdf" style="text-decoration:none;">Digital Humanities Pedagogy:
+Practices, Principles and Politics</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(79).pdf" style="text-decoration:none;">Digital Scholarly Editing:
+Theories and Practices</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
-  
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(80).pdf" style="text-decoration:none;">VOLUME SIX A: Motif Programming Manual, Open Source Edition</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(81).pdf" style="text-decoration:none;">VOLUME SIX B: Motif Programming Manual, Open Source Edition</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(82).pdf" style="text-decoration:none;">Complexity, Security and
+Civil Society in East Asia: Foreign Policies and the Korean Peninsula</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(83).pdf" style="text-decoration:none;">Digital Technology and
+the Practices of Humanities Research</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(84).pdf" style="text-decoration:none;">Gallucci's Commentary on
+Dürer's Four Books on Human Proportion: Renaissance Proportion Theory</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(85).pdf" style="text-decoration:none;">The End of the World:
+Apocalypse and its Aftermath in Western Culture</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(86).pdf" style="text-decoration:none;">Managing Projects
+with GNU Make</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(87).pdf" style="text-decoration:none;">Mr. Emerson's Revolution</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(88).pdf" style="text-decoration:none;">Best Buys, Wasted Buys and
+Contestable Buys</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(89).pdf" style="text-decoration:none;">Gallucci’s Commentary on
+Dürer’s Four Books on
+Human Proportion</a></li>
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(90).pdf" style="text-decoration:none;"> Oral Literature in Africa</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(91).pdf" style="text-decoration:none;">Models in Microeconomic Theory</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(92).pdf" style="text-decoration:none;">The Sword of Judith:
+Judith Studies Across the Disciplines</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(93).pdf" style="text-decoration:none;"> Text Genetics in
+Literary Modernism and Other Essays</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(94).pdf" style="text-decoration:none;">Earth 2020: An Insider's Guide to a Rapidly Changing Planet</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(95).pdf" style="text-decoration:none;">Simplified Signs:
+A Manual Sign-Communication System for Special Populations, Volume 1: Principles, Background, and Application</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(96).pdf" style="text-decoration:none;">The DARPA Model for Transformative
+Technologies: Perspectives on the U.S. Defense Advanced Research Projects Agency</a></li> 
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(97).pdf" style="text-decoration:none;">Cicero, Against Verres, 2.1.53–86:
+Latin Text with Introduction, Study Questions, Commentary and English Translation</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(98).pdf" style="text-decoration:none;">Forests and Food:
+Addressing Hunger and Nutrition Across Sustainable Landscapes</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(99).pdf" style="text-decoration:none;">Virgil, Aeneid 11 (Pallas & Camilla)
+1–224, 498–521, 532–96, 648–89, 725–835 Latin text, study aids with vocabulary, and commentary</a></li>  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(100).pdf" style="text-decoration:none;">Information and Empire
+Mechanisms of Communication in Russia, 1600-1850</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(101).pdf" style="text-decoration:none;">Is Behavioral Economics
+Doomed? The Ordinary versus the Extraordinary</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(102).pdf" style="text-decoration:none;">Making up Numbers:
+A History of Invention in Mathematics</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(103).pdf" style="text-decoration:none;">Terrestrial Mammal
+Conservation: Global evidence for the effects of interventions for terrestrial mammals excluding bats and primates</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(104).pdf" style="text-decoration:none;">From Darkness to Light:
+Writers in Museums 1798–1898</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(105).pdf" style="text-decoration:none;">Plato's Republic:
+An Introduction</a></li> 
+ 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(106).pdf" style="text-decoration:none;">Living Earth Community:
+Multiple Ways of Being and Knowing </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(107).pdf" style="text-decoration:none;">The Life of
+August Wilhelm Schlegel, Cosmopolitan of Art and Poetry</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(108).pdf" style="text-decoration:none;">Delivering on the Promise of Democracy: Visual Case Studies in Educational Equity and Transformation</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(109).pdf" style="text-decoration:none;">Introducing
+Vigilant Audiences</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(110).pdf" style="text-decoration:none;">With and Without Galton:
+Vasilii Florinskii and the Fate of Eugenics in Russia</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(116).pdf" style="text-decoration:none;">Dynamic, partially-stateful data-flow for
-high-performance Web applications</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(111).pdf" style="text-decoration:none;">Deliberation Representation Equity</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(112).pdf" style="text-decoration:none;">FRONTIER ENCOUNTERS:
+Knowledge and Practice at the Russian, Chinese and Mongolian Border</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(113).pdf" style="text-decoration:none;">The Life and Letters of
+William Sharp and "Fiona Macleod", VOLUME II: 1895–1899</a></li>  
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(114).pdf" style="text-decoration:none;">The Life and Letters of
+William Sharp and "Fiona Macleod", VOLUME III: 1900–1905</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(115).pdf" style="text-decoration:none;">A Fleet Street in Every Town:
+The Provincial Press in England, 1855–1900</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(116).pdf" style="text-decoration:none;">How Wikipedia Works</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(117).pdf" style="text-decoration:none;">A View from Elsewhere on Publishing, Copyright and Creativity </a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(118).pdf" style="text-decoration:none;">Creative Multilingualism:
+A Manifesto</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(119).pdf" style="text-decoration:none;">Sailing from Polis to Empire: Ships in the Eastern Mediterranean during the Hellenistic Period </a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(120).pdf" style="text-decoration:none;">Margery Spring Rice:
+Pioneer of Women's Health in the Early Twentieth Century</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(121).pdf" style="text-decoration:none;">Engaging Researchers with
+Data Management: The Cookbook</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(122).pdf" style="text-decoration:none;">That Greece Might Still Be Free:
+The Philhellenes in the War of Independence </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(123).pdf" style="text-decoration:none;">The Passion of Max von
+Oppenheim Archaeology and Intrigue in the Middle East from Wilhelm II to Hitler</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(124).pdf" style="text-decoration:none;">Oort: User-Centric Cloud Storage with Global Queries</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(124).pdf" style="text-decoration:none;">Discourses We Live By:
+Narratives of Educational and Social Endeavour</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(125).pdf" style="text-decoration:none;">Peer-to-Peer Communication Across Network Address Translators</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(125).pdf" style="text-decoration:none;">Conservation Biology
+in Sub-Saharan Africa</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(126).pdf" style="text-decoration:none;">On the Feasibility of Peer-to-PeerWeb Indexing and Search</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(126).pdf" style="text-decoration:none;">Liminal Spaces:
+Migration and Women of the Guyanese Diaspora</a></li> 
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(127).pdf" style="text-decoration:none;">Packrat Parsing:
-a Practical Linear-Time Algorithm with Backtracking</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(127).pdf" style="text-decoration:none;">Piety in Pieces:
+How Medieval Readers Customized their Manuscripts</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(128).pdf" style="text-decoration:none;">Packrat Parsing:
-Simple, Powerful, Lazy, Linear Time</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(128).pdf" style="text-decoration:none;">Women and Migration:
+Responses in Art and History</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(129).pdf" style="text-decoration:none;">Parsing Expression Grammars:
-A Recognition-Based Syntactic Foundation</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(129).pdf" style="text-decoration:none;">A Lexicon of Medieval Nordic Law</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(130).pdf" style="text-decoration:none;">Pastwatch: a Distributed Version Control System </a></li>    
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(130).pdf" style="text-decoration:none;">Modernism and the
+Spiritual in Russian Art: New Perspectives</a></li>    
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(131).pdf" style="text-decoration:none;">Easy Freshness with Pequod Cache Joins</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(131).pdf" style="text-decoration:none;">Infrastructure
+Investment in Indonesia: A Focus on Ports</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(132).pdf" style="text-decoration:none;">Verifying concurrent, crash-safe systems with Perennial</a></li>   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(132).pdf" style="text-decoration:none;">BC, Before Computers:
+On Information Technology from Writing to the Age of Digital Data</a></li>   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(133).pdf" style="text-decoration:none;">Proceedings of FAST '03: 2nd USENIX Conference on
-File and Storage Technologies</a></li>     
+ <li><a target="_blank" href="https://github.com/manjunath5496/Open-Source-Books/blob/master/os(133).pdf" style="text-decoration:none;">History of
+International Relations: A Non-European Perspective</a></li>     
    </ul>
